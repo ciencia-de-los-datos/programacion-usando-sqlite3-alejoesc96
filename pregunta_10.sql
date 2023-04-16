@@ -42,3 +42,4 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 --
+select * from tbl0 where tbl0.c02 >= 300;
